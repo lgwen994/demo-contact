@@ -13,8 +13,10 @@ This demo shows a list of contacts retrieved from [http://jsonplaceholder.typico
 - multiple re-renders
 
 ### UI framework 
-[material-ui](https://material-ui.com/discover-more/backers/#diamond)
+- [material-ui](https://material-ui.com/discover-more/backers/#diamond)
 
+
+##
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
