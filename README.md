@@ -1,3 +1,22 @@
+## Instruction
+
+This demo shows a list of contacts retrieved from [http://jsonplaceholder.typicode.com/users/](http://jsonplaceholder.typicode.com/users/). When clicking on a contact, it presented with their business card.
+
+### done functions
+
+- a search capibility on the list of results
+- responsive nature
+- sorting options by alphaIcon
+- loading icon
+
+### issues need to solve
+- multiple re-renders
+
+### UI framework 
+[material-ui](https://material-ui.com/discover-more/backers/#diamond)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
